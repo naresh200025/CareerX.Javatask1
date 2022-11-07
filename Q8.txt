@@ -1,0 +1,9 @@
+let randomnum=Math.floor(Math.random()*100);
+console.log(randomnum);
+  
+  
+console.log("smallest integer greater than or equal to a decimal number:",math.floor(43.8));
+
+
+console.log("if a number is an integer:",number.is interger(2017));
+  

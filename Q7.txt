@@ -1,0 +1,5 @@
+let string='Codecademy';
+console.log(string.toUpperCase());
+
+let string1='Remove whitespace';
+console.log(string1.trim());

@@ -1,0 +1,2 @@
+let a="Teaching the world how to code"
+console.log(a.length);
